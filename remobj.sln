@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "finalapp", "finalapp\finalapp.vcproj", "{F8996F43-C595-45A7-B0B3-291D8B89F8F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "taucs", "taucs\taucs_vs2005.vcproj", "{E27ABD4E-2093-4194-985E-E9EE5BF040D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8996F43-C595-45A7-B0B3-291D8B89F8F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8996F43-C595-45A7-B0B3-291D8B89F8F1}.Debug|Win32.Build.0 = Debug|Win32
+		{F8996F43-C595-45A7-B0B3-291D8B89F8F1}.Release|Win32.ActiveCfg = Release|Win32
+		{F8996F43-C595-45A7-B0B3-291D8B89F8F1}.Release|Win32.Build.0 = Release|Win32
+		{E27ABD4E-2093-4194-985E-E9EE5BF040D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E27ABD4E-2093-4194-985E-E9EE5BF040D8}.Debug|Win32.Build.0 = Debug|Win32
+		{E27ABD4E-2093-4194-985E-E9EE5BF040D8}.Release|Win32.ActiveCfg = Release|Win32
+		{E27ABD4E-2093-4194-985E-E9EE5BF040D8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
